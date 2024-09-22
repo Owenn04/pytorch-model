@@ -1,0 +1,5 @@
+open ur project folder
+python3 -m virtualenv env (run this)
+if that doesnt work, you need to install this: python3 -m pip install --user virtualenv
+activate with this: env\Scripts\activate
+you know ur good when the path in the terminal starts with (env)
